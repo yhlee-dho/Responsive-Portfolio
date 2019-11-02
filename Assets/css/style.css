@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.body-wrapper {
+    min-height: 100%;
+    width: 70%;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: -50px;
+    border: 5px solid #dddddd;
+  }
+
+.intro {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 2px;
+    font-size: 30px;
+    color: #4aaaa5;
+    border-bottom: #4aaaa5 solid 2px;
+    margin: 1% 2% 0 2%;
+}
+
+.footer,
+.push {
+    height: 50px;
+}
+
+.y-footer {
+    border-top: 8px solid #4aaaa5;
+    background-color:#666666;
+}
