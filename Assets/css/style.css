@@ -123,3 +123,27 @@ body {
 .emptyBox {
   height: 400px;
 }
+
+.hide {
+  display: none;
+}
+
+#moviesGrooviesPortfolio {
+  display: none;
+}
+
+#weatherDashboardPortfolio {
+  display: none;
+}
+
+#workDayPlannerPortfolio {
+  display: none;
+}
+
+#codeQuizPortfolio {
+  display: none;
+}
+
+#passwordGeneratorPortfolio {
+  display: none;
+}
