@@ -151,13 +151,5 @@ body {
 /* work from 02252020 and on */
 .portfolio-div{
   margin: 50px;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  align-items: baseline;
-  align-content: space-around;
-}
 
-.portfolioContainer{
-  display: flex; /* or inline-flex */
 }
