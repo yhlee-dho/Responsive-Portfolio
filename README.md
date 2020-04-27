@@ -1,5 +1,5 @@
 # Responsive Portfolio
 Responsive portfolio made with html, bootstrap css, and javascript.
 
-# Deployed below
+# Deployed
 https://yhl-html-portfolio.herokuapp.com/index.html#portfolio
